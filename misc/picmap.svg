@@ -3240,8 +3240,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="layer1"
-     inkscape:cx="901.55269"
-     inkscape:cy="1532.0669"
+     inkscape:cx="748.54904"
+     inkscape:cy="2052.0085"
      inkscape:document-units="px"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -3250,7 +3250,7 @@
      inkscape:window-width="1848"
      inkscape:window-x="72"
      inkscape:window-y="27"
-     inkscape:zoom="1.8463612">
+     inkscape:zoom="0.32639363">
     <inkscape:grid
        enabled="true"
        id="grid815"
@@ -4350,5 +4350,21 @@
        inkscape:export-filename="/home/koje/Projects/Android/com.koje.planets/app/src/main/res/drawable/path1589.png"
        inkscape:export-xdpi="95"
        inkscape:export-ydpi="95" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="123.03125"
+       y="-287.72919"
+       id="text3039"><tspan
+         sodipodi:role="line"
+         id="tspan3037"
+         x="123.03125"
+         y="-287.72919"
+         style="stroke-width:0.26458332">Worker: https://www.svgrepo.com/svg/308118/technical-support-worker-fix-repair</tspan><tspan
+         sodipodi:role="line"
+         x="123.03125"
+         y="-274.50003"
+         style="stroke-width:0.26458332"
+         id="tspan3041" /></text>
   </g>
 </svg>
