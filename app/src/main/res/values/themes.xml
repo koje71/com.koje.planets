@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Planets" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <item name="colorPrimary">#000</item>
+        <item name="colorPrimaryDark">#c21d1111</item>
+        <item name="colorAccent">#c6897929</item>
+
+    </style>
+</resources>
